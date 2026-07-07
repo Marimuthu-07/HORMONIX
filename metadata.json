@@ -1,0 +1,6 @@
+{
+  "name": "NEONWAVE Offline Player",
+  "description": "A high-fidelity offline audio player with custom neon themes, gapless playback, standard and album-focus modes, metadata extraction, and built-in synthesizer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
