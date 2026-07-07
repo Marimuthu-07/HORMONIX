@@ -1,6 +1,6 @@
 {
-  "name": "NEONWAVE Offline Player",
-  "description": "A high-fidelity offline audio player with custom neon themes, gapless playback, standard and album-focus modes, metadata extraction, and built-in synthesizer.",
+  "name": "HORMONIX",
+  "description": "A high-performance, desktop-grade offline music player featuring smooth glassmorphism design, instant 10,000+ song search, audio visualizers, custom play queue, and local library scanning.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }

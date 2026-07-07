@@ -1,7 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<resources>
-    <string name="app_name">NeonWave</string>
-    <string name="title_activity_main">NeonWave</string>
-    <string name="package_name">com.marimuthu.neonwave</string>
-    <string name="custom_url_scheme">com.marimuthu.neonwave</string>
-</resources>
